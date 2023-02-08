@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to have you on my page.</h1>
 
-- 👋 Hi, I’m @romeoagyemang as a software developer, lamp tech stack developer and a web developer, I have built complex, interactive web applications, management systems as well as softwares. With three years of experience, I have help businesses across the globe to increase productivity through websites, web apps and softwares. 
+👋 Hi, I’m @romeoagyemang as a software developer, lamp tech stack developer and a web developer, I have built complex, interactive web applications, management systems as well as softwares. With three years of experience, I have help businesses across the globe to increase productivity through websites, web apps and softwares. 
 
 <h3>💻 Tech Stack:</h3>
  
