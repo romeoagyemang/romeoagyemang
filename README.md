@@ -9,7 +9,11 @@ Hi, I’m Romeo Agyemang and as a software developer, lamp tech stack developer,
 </p>
 
 <h3>My Skills</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <p>
   <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
   <img src="https://img.shields.io/badge/logo-jquery-blue?logo=jquery">
