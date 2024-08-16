@@ -11,7 +11,7 @@ Hi, I’m Romeo Agyemang and as a software developer, lamp tech stack developer,
 <h3>My Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,sass," />
   </a>
 </p>
 <p>
