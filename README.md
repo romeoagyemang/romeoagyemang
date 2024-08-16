@@ -8,7 +8,8 @@ Hi, I’m Romeo Agyemang and as a software developer, lamp tech stack developer,
 <a href="https://www.linkedin.com/in/romeo-agyemang-0a1621202/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://medium.com/@agyemangromeo74" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
-
+<h3>My Skills</h3>
+<p><a href="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"></a></p>
 <!---
 romeoagyemang/romeoagyemang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
