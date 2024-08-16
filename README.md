@@ -9,6 +9,7 @@ Hi, I’m Romeo Agyemang and as a software developer, lamp tech stack developer,
 </p>
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/:user">
+<img alt="Chocolatey Downloads" src="https://img.shields.io/chocolatey/dt/:packageName">
 
 <h3>My Skills</h3>
 <p><a><img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"></a></p>
