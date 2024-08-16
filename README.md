@@ -8,11 +8,13 @@ Hi, I’m Romeo Agyemang and as a software developer, lamp tech stack developer,
 <a href="https://www.linkedin.com/in/romeo-agyemang-0a1621202/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://medium.com/@agyemangromeo74" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/:user">
-<img alt="Chocolatey Downloads" src="https://img.shields.io/chocolatey/dt/:packageName">
-
 <h3>My Skills</h3>
-<p><a><img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"></a></p>
+<p>
+  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
+  <img src="https://img.shields.io/badge/logo-jquery-blue?logo=jquery">
+<img src="https://img.shields.io/badge/logo-html-blue?logo=html">
+<img src="https://img.shields.io/badge/logo-css-blue?logo=css">
+</p>
 <!---
 romeoagyemang/romeoagyemang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
