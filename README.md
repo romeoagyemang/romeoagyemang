@@ -9,7 +9,7 @@ Hi, I’m Romeo Agyemang and as a software developer, lamp tech stack developer,
 </p>
 
 <h3>My Skills</h3>
-<p><a href="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"></a></p>
+<p><a><img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"></a></p>
 <!---
 romeoagyemang/romeoagyemang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
