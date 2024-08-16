@@ -12,8 +12,10 @@ Hi, I’m Romeo Agyemang and as a software developer, lamp tech stack developer,
 <p>
   <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
   <img src="https://img.shields.io/badge/logo-jquery-blue?logo=jquery">
-<img src="https://img.shields.io/badge/logo-HTML5-blue?logo=HTML5">
-<img src="https://img.shields.io/badge/logo-CSS3-blue?logo=CSS3">
+  <img src="https://img.shields.io/badge/logo-HTML5-blue?logo=HTML5">
+  <img src="https://img.shields.io/badge/logo-CSS3-blue?logo=CSS3">
+  <img src="https://img.shields.io/badge/logo-CSS3-blue?logo=CSS3">
+  <img src="https://img.shields.io/badge/logo-PHP-violet?logo=PHP">
 </p>
 <!---
 romeoagyemang/romeoagyemang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
