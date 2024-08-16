@@ -15,7 +15,7 @@ Hi, I’m Romeo Agyemang and as a software developer, lamp tech stack developer,
   <img src="https://img.shields.io/badge/logo-HTML5-blue?logo=HTML5">
   <img src="https://img.shields.io/badge/CSS3-blue?logo=CSS3">
   <img src="https://img.shields.io/badge/PHP-blue?logo=PHP">
-  <img src="https://img.shields.io/badge/logo=Laravel" height="50" width="150">
+  <img src="https://img.shields.io/badge/Laravel-blue?logo=laravel" height="50" width="150">
 <img src="https://img.shields.io/badge/react.js-blue?logo=react.js">
 </p>
 <!---
