@@ -11,18 +11,10 @@ Hi, I’m Romeo Agyemang and as a software developer, lamp tech stack developer,
 <h3>My Skills</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,sass,PHP,laravel,MySQL,MongoDB,react,dart," />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,sass,php,laravel,mysql,mongodb,react,dart," />
   </a>
 </p>
-<p>
-  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
-  <img src="https://img.shields.io/badge/logo-jquery-blue?logo=jquery">
-  <img src="https://img.shields.io/badge/logo-HTML5-blue?logo=HTML5">
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=CSS3">
-  <img src="https://img.shields.io/badge/PHP-blue?logo=PHP">
-  <img src="https://img.shields.io/badge/Laravel-blue?logo=laravel" height="50" width="150">
-<img src="https://img.shields.io/badge/react.js-blue?logo=react.js">
-</p>
+
 <!---
 romeoagyemang/romeoagyemang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
