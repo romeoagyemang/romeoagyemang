@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! It's nice to have you on my GitHub page.</h1>
+<h1>Hey! It's nice to have you on my GitHub page.</h1>
 
 Hi, I’m Romeo Agyemang and as a software developer, lamp tech stack developer, and web developer, I have built complex, interactive web applications, management systems as well as software. With 3+ years of experience, I have helped businesses across the globe to increase productivity through websites, web apps, and software. 
 
