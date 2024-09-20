@@ -1,6 +1,6 @@
 <h1>Hey! It's great to have you here!! </h1>
 
-Hi, I’m Romeo Agyemang and as a software developer, lamp tech stack developer, and web developer, I have built complex, interactive web applications, management systems as well as software. With 3+ years of experience, I have helped businesses across the globe to increase productivity through websites, web apps, and software. 
+Hi, I’m Romeo Agyemang a software developer, lamp tech stack developer, and web developer, I have built complex, interactive web applications, management systems as well as software. With 3+ years of experience, I have helped businesses across the globe to increase productivity through websites, web apps, and software. 
 
 <h3>You Can Find Me Here!</h3>
 <p>
