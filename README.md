@@ -5,7 +5,7 @@ Hi, I’m Romeo Agyemang a software developer, lamp tech stack developer, and we
 <h3>You Can Find Me Here!</h3>
 <p>
 <a href="https://github.com/romeoagyemang" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://www.linkedin.com/in/romeo-agyemang-0a1621202/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
+<a href="https://www.linkedin.com/in/romeo-agyemang-1396ba358/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
 </p>
 
 <h3>My Skills</h3>
